@@ -1,0 +1,4 @@
+cat: 고양이
+apple: church
+bicycle: 자전거
+soap: 비누
